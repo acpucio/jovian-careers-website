@@ -7,13 +7,13 @@ JOBS = [
         'id': 1,
         'title': 'Data Analyst',
         'location': 'Houston, TX',
-        'salary': '$120,000'
+        'salary': '$210,000'
     },
     {
         'id': 2,
         'title': 'Network Engineer',
         'location': 'San Francisco, CA',
-        'salary': '$150,000'
+        'salary': '$250,000'
     },
     {
         'id': 3,
